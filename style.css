@@ -1,3 +1,4 @@
-div > .text { 
-    color: purple;
+.btn:hover {
+    background-color: green;
+    color: white;
 }
