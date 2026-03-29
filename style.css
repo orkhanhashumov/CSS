@@ -1,4 +1,13 @@
-input[type="text"]:focus {
-    border: 2px solid green;
-    outline: none;
+.card {
+    border: 1px;
+}
+.card h2 {
+    color: red;
+}
+.card .info {
+    color: gray;
+}
+.card button:hover {
+    background-color: black;
+color: white; 
 }
